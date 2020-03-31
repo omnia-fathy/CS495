@@ -10,6 +10,5 @@
     [Faculty] NCHAR(10) NOT NULL, 
     [password] NCHAR(20) NOT NULL, 
     [Nationality] NCHAR(10) NOT NULL, 
-    [birthdate] DATE NOT NULL, 
-    [Bus] NUMERIC(1) NOT NULL
+
 )
